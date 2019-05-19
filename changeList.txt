@@ -1,0 +1,20 @@
+1. webeframework/Login.php>createSession1
+
+
+2. Menu.php
+
+
+3. permission table change
+
+
+4. webeframework/ajaxCallmain.php> getCentralizeCustomersAdminId
+   include/viewCustomer.php>>  LoadCustomersAdmin1, LoadCustomersAccount1, LoadCustomersSupport1
+   include/viewCustomer.php>>  LoadCustomersAdmin1, LoadCustomersAccount1, LoadCustomersSupport1, LoadCustomers1()
+
+5. New table added>> send_notification 
+
+6. web2framework/Sender.php> LoadCustomersAdmin1, LoadCustomersAccount1, LoadCustomersSupport1
+
+7. permission table Add a new field RouteType in providers table
+
+8. Add a new table in database sendertemplaterouterelation
